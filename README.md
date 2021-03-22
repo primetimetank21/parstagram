@@ -23,9 +23,11 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 <br/>
 Logout
+<br/>
 ![](https://i.imgur.com/m6vsLo4.gif)
 <br/>
 Post comment
+<br/>
 ![](https://i.imgur.com/DGVuJZ6.gif)
 <br/>
 <br/>
@@ -56,11 +58,14 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 <br/>
 Sign in
+<br/>
 ![](https://i.imgur.com/Pbj5LLE.gif)
 <br/>
 Sign up
+<br/>
 ![](https://i.imgur.com/gkKGQkE.gif)
 <br/>
 New Post
+<br/>
 ![](https://i.imgur.com/yzXVjZj.gif)
 <br/>
